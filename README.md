@@ -1,33 +1,42 @@
-### 👋 Hi, I'm Zocan!
+<h1 align="center">👋 Hi, I'm Zocan!</h1>
+<p align="center">
+  🇮🇩 Developer & Content Creator from Indonesia<br>
+  🎮 Minecraft Commands | 🌏 Genshin Impact (Non-character Content)<br>
+  📹 Sharing knowledge & fun on social media
+</p>
 
-I'm a passionate developer & content creator from Indonesia 🇮🇩
+---
 
-🔧 I love building tools, exploring creative coding ideas, and helping others learn  
-🎮 Also a content creator focusing on Minecraft commands and Genshin Impact (non-character themes)  
-📹 Creating videos, tutorials, and fun experiments on TikTok and beyond  
+### 💡 About Me
+
+- 🔧 I love building tools, automating tasks, and exploring creative code
+- 🎥 I create Minecraft command block tricks & Genshin gameplay tips on TikTok
+- 💬 Always learning, always sharing — let’s grow together!
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: JavaScript, PHP, Python, HTML/CSS
-- 🕹️ Minecraft Commands & Redstone
-- 🗄️ Databases: MySQL, Firebase
-- 🔧 Tools: VSCode, Git, Command Blocks
+
+- **Languages**: JavaScript, PHP, Python, HTML/CSS  
+- **Tools**: VS Code, Git, Command Blocks  
+- **Databases**: MySQL, Firebase  
+- **Specialties**: Minecraft Redstone, TikTok Content Creation, Web Development  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Zocan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zocanw1&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zocanw1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
-### 📫 Connect with me
+### 🔗 Connect With Me
 
-- instagram: [@zocanw1]([https://www.tiktok.com/@zocanw1](https://www.instagram.com/zocanw?igsh=MW55NGFxenJ2MGQ0NA==))
-- Email: lunox.id33@gmail.com
+- 📷 Instagram: [@zocanw1](https://www.instagram.com/zocanw?igsh=MW55NGFxenJ2MGQ0NA==)  
+- 📧 Email: [lunox.id33@gmail.com](mailto:lunox.id33@gmail.com)
 
 ---
 
-> “Keep experimenting, learning, and sharing.” 🌱
-
+<p align="center"><i>“Keep experimenting, learning, and sharing.” 🌱</i></p>
