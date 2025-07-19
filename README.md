@@ -24,9 +24,8 @@ I'm a passionate developer & content creator from Indonesia 🇮🇩
 
 ### 📫 Connect with me
 
-- TikTok: [@zocanw1](https://www.tiktok.com/@zocanw1)
-- YouTube: [Zocan W1](#)
-- Email: yourname@example.com *(ganti dengan email kamu)*
+- instagram: [@zocanw1]([https://www.tiktok.com/@zocanw1](https://www.instagram.com/zocanw?igsh=MW55NGFxenJ2MGQ0NA==))
+- Email: lunox.id33@gmail.com
 
 ---
 
