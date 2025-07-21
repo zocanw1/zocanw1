@@ -34,7 +34,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zocanw1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zocanw1&theme=tokyonight)
+<p align="center">
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=YanArdiansyah-byte&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=zocanw1&theme=tokyonight)&hide_border=true" alt="streak stats"/>
+</p>
 
 
 ---
