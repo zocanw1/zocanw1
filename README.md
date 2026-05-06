@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Zocan!</h1>
+# 👋 Hi, I'm Zocan!</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zocanw1/zocanw1/main/assets/fr.webp" alt="Zocan Banner" width="80%" />
