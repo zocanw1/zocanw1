@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Zocan!</h1>
+### 👋 Hi, I'm Zocan!</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zocanw1/zocanw1/main/assets/fr.webp" alt="Zocan Banner" width="80%" />
-</p>
-
+---
 <p align="center">
   🇮🇩 Developer & Content Creator from Indonesia<br>
   🎮 Minecraft Commands | 🌏 Genshin Impact (Non-character Content)<br>
