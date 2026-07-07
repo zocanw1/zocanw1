@@ -63,7 +63,7 @@
 <p align="center">
   <a href="https://github.com/zocanw1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A&color=0F172A" /></a>
   <a href="https://www.instagram.com/rafifvirja"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F172A" /></a>
-  <a href="mailto:rafifvirja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
+  <a href="https://mail.google.com/mail/?view=cm\href="https://mail.google.com/mail/?view=cm&fs=1&to=rafifvirja@gmail.com"amp;fs=1\href="https://mail.google.com/mail/?view=cm&fs=1&to=rafifvirja@gmail.com"amp;to=rafifvirja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
 </p>
 
 ---
