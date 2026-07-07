@@ -39,13 +39,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zocanw1&theme=nord" />
+  <img src="https://img.shields.io/github/followers/zocanw1?style=for-the-badge&logo=github&label=Followers&color=38BDF8&labelColor=0F172A" />
+  <img src="https://img.shields.io/github/repos/zocanw1?style=for-the-badge&logo=github&label=Repos&color=38BDF8&labelColor=0F172A" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zocanw1&theme=nord" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zocanw1&theme=nord" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zocanw1&theme=nord" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zocanw1&theme=nord&utcOffset=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zocanw1&theme=nord" />
 </p>
 
 ---
