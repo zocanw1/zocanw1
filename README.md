@@ -1,91 +1,78 @@
-```zsh
-╔══════════════════════════════════════════════════════╗
-║  ░▒▓█ ZOCAN █▓▒░                                    ║
-║  ───────────────────────────────                      ║
-║  > STATUS: ONLINE                                    ║
-║  > ROLE:  Dev & Server Engineer                      ║
-║  > LOC:   Indonesia                                  ║
-╚══════════════════════════════════════════════════════╝
-```
-
-```
-$ whoami
-> Zocan — Developer, homelab enthusiast, Minecraft command block engineer
-
-$ neofetch
-OS:      Arch Linux (wait, it's Ubuntu 26.04)
-Host:    i5-2410M Home Server
-Kernel:  Linux x86_64
-Uptime:  varies (WiFi ath9k things)
-Shell:   bash / zsh
-Hobbies: Building bots, tinkering with servers, gaming
-```
-
----
-
-### ⚡ CORE TECH
-
-```
-LANGUAGES  [████████░░░░]  JavaScript / PHP / Python / HTML/CSS
-FRAMEWORKS [██████░░░░░░]  Node.js / Next.js / Discord.js
-TOOLS      [████████░░░░]  Docker / Git / systemd / PM2
-DATABASES  [██████░░░░░░]  MySQL / PostgreSQL / Firebase / SQLite
-SERVERS    [████████░░░░]  Linux / Nginx / CasaOS / Immich
-```
-
----
-
-### 📊 SYSTEM STATS
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=%E2%9C%A6+ZOCAN+%E2%9C%A6;Dev+%26+Server+Engineer;Anime+%26+Tech+Lover" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zocanw1&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=00ff00&icon_color=00ff00&text_color=ffffff&border_color=00ff00" />
+  <img src="https://img.shields.io/badge/Status-🟢%20Online-00FF00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Dev%20%26%20Server%20Engineer-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-FFD700?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=zocanw1&color=FF69B4&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+## 🌸 About Me
+
+```json
+{
+  "name": "Zocan",
+  "from": "Indonesia 🇮🇩",
+  "vibes": ["developer", "homelab tinkerer", "Minecraft engineer", "anime enjoyer"],
+  "current_projects": [
+    "Ciel-AI — Discord bot server assistant",
+    "portfolio-app — Next.js personal site"
+  ],
+  "motto": "Keep experimenting, learning, and having fun! ✨"
+}
+```
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css,nodejs,nextjs,react,tailwind,docker,linux,nginx,mysql,postgres,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zocanw1&show_icons=true&theme=dracula&bg_color=1a1b27&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&border_color=ff79c6&rank_icon=github" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zocanw1&layout=compact&theme=radical&bg_color=0a0a0a&title_color=00ff00&text_color=ffffff&border_color=00ff00" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zocanw1&layout=compact&theme=dracula&bg_color=1a1b27&title_color=ff79c6&text_color=f8f8f2&border_color=ff79c6" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zocanw1&theme=radical&background=0a0a0a&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=ffffff&dates=666666" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zocanw1&theme=dracula&background=1a1b27&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=f8f8f2&dates=6272a4" />
 </p>
 
 ---
 
-### 🛠️ ACCESS GRANTED
+## 🚀 Active Projects
+
+| Project | Status | Tech |
+|---------|--------|------|
+| 🤖 **Ciel-AI** | 🟢 Online | Node.js / Discord.js / Gemini |
+| 🖥️ **portfolio-app** | 🟢 Online | Next.js / Tailscale Funnel |
+| 📸 **Immich** | 🟢 Online | Self-hosted photo backup |
+| 🏠 **Home Server** | 🟢 Online | i5-2410M / Ubuntu 26.04 |
+
+---
+
+## 🌟 Let's Connect!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <a href="https://github.com/zocanw1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=1a1b27" /></a>
+  <a href="https://www.instagram.com/zocanw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27" /></a>
+  <a href="mailto:lunox.id33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
 </p>
 
 ---
-
-### 📡 ACTIVE DEPLOYMENTS
-
-```
-├── 🤖 Ciel-AI        [● online]  →  Discord bot / server assistant
-├── 🖥️ portfolio-app   [● online]  →  Next.js site via Tailscale Funnel
-├── 📸 Immich          [● online]  →  Self-hosted photo backup
-└── 🏠 Home Server     [● online]  →  i5-2410M / 7GB RAM / Ubuntu 26.04
-```
-
----
-
-### 🔗 CONNECT
 
 <p align="center">
-  <a href="https://github.com/zocanw1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=0a0a0a&borderColor=00ff00" /></a>
-  <a href="https://www.instagram.com/zocanw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a&color=0a0a0a" /></a>
-  <a href="mailto:lunox.id33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=0a0a0a" /></a>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
-```
->_ Keep experimenting, learning, and breaking things. 🖥️
-```
+<p align="center">
+  ✨ *"Code, create, and enjoy the journey!"* ✨
+</p>
