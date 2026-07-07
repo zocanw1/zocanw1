@@ -39,11 +39,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zocanw1&show_icons=true&theme=dracula&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&border_color=38BDF8&rank_icon=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zocanw1&theme=nord" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zocanw1&layout=compact&theme=dracula&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&border_color=38BDF8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zocanw1&theme=nord" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zocanw1&theme=nord" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zocanw1&theme=dracula&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=64748B" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zocanw1&theme=nord" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zocanw1&theme=nord&utcOffset=7" />
 </p>
 
 ---
