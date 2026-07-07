@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=%E2%9C%A6+ZOCAN+%E2%9C%A6;Dev+%26+Server+Engineer;Anime+%26+Tech+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=%E2%9C%A6+ZOCAN+%E2%9C%A6;Dev+%26+Server+Engineer;Anime+%26+Tech+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-🟢%20Online-00FF00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-Dev%20%26%20Server%20Engineer-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Dev%20%26%20Server%20Engineer-38BDF8?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Indonesia-FFD700?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=zocanw1&color=FF69B4&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zocanw1&color=38BDF8&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## 🌸 About Me
+## 🌊 About Me
 
 ```json
 {
@@ -39,11 +39,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zocanw1&show_icons=true&theme=dracula&bg_color=1a1b27&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&border_color=ff79c6&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zocanw1&show_icons=true&theme=dracula&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&border_color=38BDF8&rank_icon=github" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zocanw1&layout=compact&theme=dracula&bg_color=1a1b27&title_color=ff79c6&text_color=f8f8f2&border_color=ff79c6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zocanw1&layout=compact&theme=dracula&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&border_color=38BDF8" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zocanw1&theme=dracula&background=1a1b27&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=f8f8f2&dates=6272a4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zocanw1&theme=dracula&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=64748B" />
 </p>
 
 ---
@@ -62,9 +62,9 @@
 ## 🌟 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/zocanw1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=1a1b27" /></a>
-  <a href="https://www.instagram.com/zocanw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27" /></a>
-  <a href="mailto:lunox.id33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
+  <a href="https://github.com/zocanw1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A&color=0F172A" /></a>
+  <a href="https://www.instagram.com/zocanw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F172A" /></a>
+  <a href="mailto:lunox.id33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
 </p>
 
 ---
